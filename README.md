@@ -1,4 +1,4 @@
-# Loan Approval Prediction System
+# Loan Approval Prediction Analysis
 
 A Machine Learning project developed to analyze loan applicant data and predict whether a loan application will be approved or rejected using predictive modeling techniques.
 
