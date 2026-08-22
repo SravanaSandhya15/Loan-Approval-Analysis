@@ -6,7 +6,7 @@ A Machine Learning project developed to analyze loan applicant data and predict 
 
 The goal of this project is to automate and streamline the loan eligibility process. Using historical loan applicant records, the project handles missing data, performs Exploratory Data Analysis (EDA), and prepares the dataset for training binary classification algorithms.
 
-##  Dataset Architecture
+##  Dataset Overview
 
 The dataset contains **1,000 original entries** (950 non-null valid records) across **20 feature columns**:
 
